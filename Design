@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+
+<title>Frontend challenge</title>
+<link rel="stylesheet" href="challenge.css">
+
+</head>
+
+<body>
+
+<div class="container">
+<div class="box1">
+<p style="color:#D6D6D6; font-size:20px;">
+Your Result
+</p>
+<div class="circle">
+<p style="font-size:70px; font-weight:bolder;">76</p>
+<p>of 100</p>
+</div>
+<p style="font-size:25px;"><B>Great</B></p>
+<p style="color:#D6D6D6;">you scored higher than 65% of the <br>people who have taken this test.</p>
+</div>
+
+<h3>Summary</h3>
+
+
+<div class="box2">
+<label>Reaction</label> <label style="color:black;">80<span style="color:gray;">/100</label>
+</div>
+
+<div class="box3">
+<label>Memory</label> <label style="color:black;">92<span style="color:gray;">/100</label>
+</div>
+
+<div class="box4">
+<label>Verbal</label> <label style="color:black;">61<span style="color:gray;">/100</span>
+</div>
+
+<div class="box5">
+<label>Visual</label> <label style="color:black;">72<span style="color:gray;">/100</label>
+</div>
+
+<div class="box6">
+<label>continue</label>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
